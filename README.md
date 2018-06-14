@@ -1,8 +1,8 @@
-# Face-Recognition
+# multiple Face-Recognition
 Facial Recognition using OpenCV and Python. Check the output <a href="https://www.youtube.com/watch?v=W9djxNdBjvA">here</a>.
 
-# Algorithm I am using
-The algorithm I am using to train my model is Local Binary Pattern Histogram. Many sites say that this is one of the most accurate algorithms.
+# Algorithm used
+The algorithm used train my model is Local Binary Pattern Histogram.
 
 # Folders
 recognized = Contains the trained model<br>
@@ -20,4 +20,6 @@ sample pics = Contains the files that are to be used by faceDetectFromImage.py<b
 
 
 # Extras that are included
-A simple face detection program that can detect faces in a picture.
+A simple face detection program that can detect faces in a picture or in front of the webcam.
+
+# for more details contact me via siddharth.m4343@gmail.com
