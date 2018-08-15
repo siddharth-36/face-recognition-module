@@ -1,5 +1,5 @@
 # multiple Face-Recognition
-Facial Recognition using OpenCV and Python. Check the output <a href="https://www.youtube.com/watch?v=W9djxNdBjvA">here</a>.
+Facial Recognition using OpenCV and Python.
 
 # Algorithm used
 The algorithm used train my model is Local Binary Pattern Histogram.
